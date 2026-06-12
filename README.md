@@ -48,7 +48,7 @@ Desarrollo y mantenimiento de funcionalidades frontend en entorno real, bajo met
 
 ### 🌐 Portfolio completo
 
-> Visita mi portfolio con diseño completo en **[jako067.github.io/Curriculum_Diego](https://jako067.github.io/Curriculum_Diego)**
+> Visita mi portfolio con diseño completo en **[jako067.github.io/jako067](https://jako067.github.io/jako067)**
 
 ---
 
